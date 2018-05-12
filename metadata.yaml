@@ -1,0 +1,32 @@
+_repo: Old-and-New-London-Volume-I--13-A-Narrative-of-Its-History-Its-People-and-Its-Places_31412
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thornbury, Walter
+    aliases:
+    - Thornbury, George Walter
+    - Thornbury, George W. (George Walter)
+    - Thornbury, G. W. (George Walter)
+    birthdate: 1828
+    deathdate: 1876
+    gutenberg_agent_id: '35209'
+    url: http://www.gutenberg.org/2009/agents/35209
+description: ''
+gutenberg_issued: '2010-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31412'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Description and travel'
+- !lcc 'DA'
+- !lcsh 'London (England) -- History'
+title: "Old and New London, Volume I\r\nA Narrative of Its History, Its People, and\
+  \ Its Places"
+url: http://www.gutenberg.org/ebooks/31412
